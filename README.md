@@ -17,13 +17,13 @@ https://subhmishra9930-cpu.github.io/Prodigy_WD_02/
 - Stopwatch display and controls
 - Additional function buttons
 - Lap times section
-- Footer with attribution
+- Footer with attribution<br>
 **styles.css**
 - CSS Variables for theming
 - Responsive grid layouts
 - Smooth animations
 - Light/Dark mode styles
-- Mobile-first responsive design
+- Mobile-first responsive design<br>
 **script.js**
 - Core stopwatch logic
 - Lap time management
